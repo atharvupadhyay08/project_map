@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "from": "Mumbai",
+    "to": "Goa",
+    "distance": "590 km",
+    "time": "10 Hours",
+    "hotel": "Sea Breeze Resort",
+    "stops": ["Lonavala", "Amboli Ghat", "Sindhudurg Fort"],
+    "fromCoords": [19.076, 72.8777],
+    "toCoords": [15.2993, 74.124]
+  },
+  {
+    "id": 2,
+    "from": "Manali",
+    "to": "Leh",
+    "distance": "474 km",
+    "time": "12 Hours",
+    "hotel": "Mountain View Camp",
+    "stops": ["Rohtang Pass", "Jispa", "Pangong Lake"],
+    "fromCoords": [32.2432, 77.1892],
+    "toCoords": [34.1526, 77.5771]
+  },
+  {
+    "id": 3,
+    "from": "Jaipur",
+    "to": "Udaipur",
+    "distance": "395 km",
+    "time": "7 Hours",
+    "hotel": "Lake Palace Stay",
+    "stops": ["Ajmer", "Pushkar", "Nathdwara"],
+    "fromCoords": [26.9124, 75.7873],
+    "toCoords": [24.5854, 73.7125]
+  }
+]
